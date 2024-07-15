@@ -12,8 +12,7 @@ const App = () => {
 
 
 
-<h2>Display value</h2>
-<Displayvalue/>
+
 
 
 
